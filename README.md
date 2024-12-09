@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lhperreault
 - 👀 I’m interested in data science and business
-- I’m currently learning python, sql, and r. Always looking for extra work to do.
-- I’m looking all the time for tips to make my work faster or methods and practices that can add more value to my skill set. There's so much out there though.
+- I’m currently learning python, sql, r, and JMP. Always looking for extra work to do. My repositories are meant to display my work. 
+- I’m looking all the time for tips to make my work faster or methods and practices that can add more value to my skill set.
 - 
 
 <!---
