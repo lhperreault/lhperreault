@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and business
 - I’m currently learning python, sql, r, and JMP. Always looking for extra work to do.
 - I’m looking all the time for tips to make my work faster or methods and practices that can add more value to my skill set.
-- My repositories are meant to display my work. 
+- MY REPOSITORIES DISPLAY MY WORK. 
 
 <!---
 lhperreault/lhperreault is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
